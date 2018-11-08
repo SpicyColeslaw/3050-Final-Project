@@ -1,0 +1,9 @@
+12		//room length
+(1,3)	//robot starting position
+(10,9)	//robot finish position
+(10,8)	//obstacle 1 starting position
+1		//obstacle 1 speed
+(0,+1)	//obstacle 1 direction
+(2,2)	//obstacle 2 starting position
+1		//obstacle 2 speed
+(-1,+1)	//obstacle 2 direction
